@@ -1,1 +1,9 @@
-# Ak-ll-KediKab-
+## Smart Cat Litter Box
+
+# Kodlar
+
+
+# Mekanik Kısmı
+
+
+
